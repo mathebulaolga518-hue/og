@@ -1,2 +1,4 @@
-# Project 1
-
+# og
+hello
+hy
+i just firgured things out 
